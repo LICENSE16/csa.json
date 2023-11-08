@@ -1,5 +1,5 @@
 {     
-  "SendTraffic" : false,     
+  "SendTraffic" : true,     
   "ForceClick"  : true,      
   "TimeToSpawnSendTraffic" : 500,     
   "Title" : "New Version is Available",     
