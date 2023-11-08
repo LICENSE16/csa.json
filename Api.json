@@ -1,7 +1,7 @@
 {     
   "SendTraffic" : true,     
   "ForceClick"  : true,      
-  "TimeToSpawnSendTraffic" : 5,     
+  "TimeToSpawnSendTraffic" : 0.5,     
   "Title" : "New Version is Available",     
   "TitleOnSpamSendTraffic" : "Try This Game !",     
   "ImageURL" : "https://github.com/YassirXDEV/JsonHost/blob/main/friendlyicon.png?raw=true",     
