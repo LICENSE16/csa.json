@@ -2,7 +2,8 @@
   "SendTraffic" : false,     
   "ForceClick"  : true,      
   "TimeToSpawnSendTraffic" : 500,     
-  "Title" : "New Version is Available",     "TitleOnSpamSendTraffic" : "Try This Game !",     
+  "Title" : "New Version is Available",     
+  "TitleOnSpamSendTraffic" : "Try This Game !",     
   "ImageURL" : "https://github.com/YassirXDEV/JsonHost/blob/main/friendlyicon.png?raw=true",     
   "GameURL" : "https://play.google.com/store/apps/details?id=com.GamingYOPs.myfriendlyneighborhood" 
 }
