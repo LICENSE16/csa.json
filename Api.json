@@ -2,8 +2,8 @@
     "SendTraffic" : true,
     "ForceClick"  : true,
     "TimeToSpawnSendTraffic" : 10,
-    "Title" : "Download Now !",
-    "TitleOnSpamSendTraffic" : "Try This Game !",
+    "Title" : "Rate Us !",
+    "TitleOnSpamSendTraffic" : "Rate Us !",
     "ImageURL" : "https://github.com/LICENSE16/jsonapi/blob/main/download%20(8).png?raw=true",
     "GameURL" : "https://play.google.com/store/apps/details?id=com.startgames.escape.barry.prison.obby.jailbreak"
 }
