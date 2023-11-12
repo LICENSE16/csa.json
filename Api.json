@@ -1,7 +1,7 @@
 {
-    "SendTraffic" : true,
+    "SendTraffic" : false,
     "ForceClick"  : true,
-    "TimeToSpawnSendTraffic" : 10,
+    "TimeToSpawnSendTraffic" : 500,
     "Title" : "",
     "TitleOnSpamSendTraffic" : "",
     "ImageURL" : "https://github.com/LICENSE16/csa.json/blob/main/CC.PNG?raw=true",
